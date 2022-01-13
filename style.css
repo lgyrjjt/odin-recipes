@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(12, 126, 2);
+}
+
+h1 {
+    color: darkorange;
+    text-align: center;
+    text-decoration: underline;
+    
+    
+}
+
+/* 
+======================================================
+Unordered list on landing page
+
+======================================================
+*/
+
+
+div {
+    color: firebrick;
+}
+
+/*
+======================================================
+Menu bullet points
+======================================================
+*/
+
+a {
+    color: gold;
+    font-size: 35px;
+}
+
