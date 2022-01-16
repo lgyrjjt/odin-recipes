@@ -106,6 +106,32 @@ Yellow Burger Ingredients
 }
 
 
+/*
+======================================================
+Salad border around picture and description
+======================================================
+*/
+
+#salad-border {
+    border:  10px solid rgb(227, 16, 247);
+}
+
+/*
+======================================================
+Styles for lead paragraph on salads
+======================================================
+*/
+
+#salad-lead {
+    text-transform: uppercase;
+    font-style: italic;
+    color: turquoise;
+    text-align: center;
+}
+
+
+
+
 
 
 
