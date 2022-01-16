@@ -45,7 +45,19 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+ 
 }
+
+/*
+======================================================
+Border around Burger image
+======================================================
+*/
+
+#burger-pic {
+    border: 25px solid rgb(163, 14, 14);
+}
+
 
 /*
 ======================================================
@@ -68,6 +80,33 @@ Red text
     color: rgb(110, 19, 19);
     font-weight: bold;
 }
+
+/*
+======================================================
+Purple Burger Ingredients
+======================================================
+*/
+
+.burger-ing {
+    color: rgb(199, 18, 199);
+}
+
+/*
+======================================================
+Yellow Burger Ingredients
+======================================================
+*/
+
+.burger-step {
+    color: rgb(177, 177, 10);
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+
+
+
 
 
 
